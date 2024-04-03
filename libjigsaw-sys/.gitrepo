@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:jreniel/libjigsaw-sys.git
+	branch = main
+	commit = 9c0f68fc85fd1c7a9c214f317e864e641faf1a76
+	parent = 3054ec8d043d60af24039528e8be51feead665c8
+	method = merge
+	cmdver = 0.4.5

@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:jreniel/libjigsaw-sys.git
 	branch = main
-	commit = 9c0f68fc85fd1c7a9c214f317e864e641faf1a76
-	parent = 3054ec8d043d60af24039528e8be51feead665c8
+	commit = f11b726bfe17c787a5feb20133463578c6beba20
+	parent = c531e21c3cc2d78d1b9a1638cd5139f556e6cbd0
 	method = merge
 	cmdver = 0.4.5
